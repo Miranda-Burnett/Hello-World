@@ -4,7 +4,7 @@
 ***Hello World Sample***
 
 ## Description
-Practice using GitHub by making a README file with **4** different types of syntax
+Practice using GitHub by making a README file with **4 different types** of syntax
 
 ## How To Run Program
 + list step 1 of program
