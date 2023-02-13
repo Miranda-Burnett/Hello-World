@@ -1,14 +1,19 @@
 # Hello-World
 
-##Project Title
+## Project Title
+***Hello World Sample***
 
-##Description
+## Description
 Practice using GitHub by making a README file with **4** different types of syntax
-##How To Run Program
 
-##Files Used
-*add files here*
+## How To Run Program
++ list step 1 of program
++ step 2 of program
++ continue until finished
 
-##Additional Documentation
+## Files Used
+*add any files used here*
 
-##Versioning
+## Additional Documentation
+
+## Versioning
